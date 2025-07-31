@@ -116,10 +116,10 @@ var config = {
         },
         {
             id: 'fifth-chapter',
-            alignment: 'right',
-            hidden: true,
+            alignment: 'left',
+            hidden: false,
             title: '',
-            image: '',
+            image: 'https://i.ibb.co/b53rCLHv/MEF-AAP-027-BAP-2025-07-31-13-45-34.png',
             description: '',
             location: {
                 center: [28.984, 41.037],
